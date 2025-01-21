@@ -9,3 +9,5 @@ Within this project, i will be setting up a basic HTML website containing recipe
 Outcomes/Reflection upon Completion
 
 I need to work on Git and the Commit/Push process more
+
+***needed to re-add the work into a new repo as had issues when renaming a branch (newbie error)
