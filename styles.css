@@ -1,38 +1,37 @@
+*{
+    outline: 2px solid red;
+}
 .page {
-    background-color: green;
-    color: pink;
+    background-color: hwb(41 4% 9%);
+    color: #000000;
     text-align: center;
     font-family: sans-serif;
-}
+    }
 
+.box-one{
+    padding: 15px solid;
+    border: 30px solid hwb(41 4% 9% / 0.829);
+    margin: 100px 0px auto;
+}
 .burgers #title {
     background-color: black;
     color: yellow;
 }
 
 h1 {
-    /* color:blue; */
+    color:rgb(199, 211, 65);
     font-size: 66px;
     text-align: center;
-}
-
-.list {
-    text-align: center;
+    -webkit-text-stroke: 3px #000000;
 }
 
 a.button {
-    background-color: black;
+    display: inline-block;
+    background: rgb(214, 154, 24);
     font-size: 44px;  
     text-align: center;  
-}
-
-
-a.chowmein {
-    color: white;
-}
-a.pancakes {
-    color: yellow;
-    }
-a.burgers {
-    color: cornflowerblue;
+    color: black;
+    padding: 8px ;
+    border: 4px ;
+    margin: 16px ;
 }
